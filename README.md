@@ -7,11 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sutheesh&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -43,43 +38,6 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white)](#)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6F61.svg?style=flat-square)](#)
 [![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=flat-square)](#)
-
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutheesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutheesh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutheesh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌱 Currently
-
-- 🔗 Building **[SwiftMCP](https://github.com/sutheesh/SwiftMCP)** — connecting Apple's on-device models to the MCP ecosystem
-- 🤖 Shipping **agentic AI systems** with AG-UI streaming and protocol-first architecture
-- 📱 Advancing **on-device ML** for iOS and Android
-- 🔬 Researching **MCP security, agent observability, and self-healing agent workflows**
-- ✍️ Writing about AI systems — from foundational concepts to production deployment
-- 💬 Ask me about **Swift, Kotlin, MCP, on-device ML, agentic AI, mobile architecture**
-
----
-
-## 🏅 Credentials
-
-- 🎓 **IEEE Senior Member**
-- 🔬 Peer reviewer for AI/ML conference submissions
-- ✍️ Author — *Understanding Artificial Intelligence* (technical book, 20 chapters)
 
 ---
 
